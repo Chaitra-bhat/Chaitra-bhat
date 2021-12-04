@@ -2,11 +2,18 @@
 
 ### Working as an Automotive Software Engineer, and currently pursuing my Master's in Software Systems. Interested in driver development, system design, software architecture.... 
 
-You can reach me by :
+### Languages:   C, Embedded C, Python  
+
+### Tools:  Keil, STM32 Workbench, Segger System View, LogicAnalyzer, Arduino, Thonny, NI Labview
+
+
+
+### You can reach me by :
 
 [LinkedIn](www.linkedin.com/in/chaitra-b-54a53814) , 
 [Twitter](https://twitter.com/chaitra_bhat17) ,
 [Mail](chaitrabhatganesh@gmail.com)
+
 <!--
 **Chaitra-bhat/Chaitra-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
