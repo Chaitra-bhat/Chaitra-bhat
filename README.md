@@ -2,7 +2,7 @@
 
 ### Working as an Automotive Software Engineer, and currently pursuing my Master's in Software Systems. Interested in driver development, system design, software architecture.... 
 
-### Languages:   C, Embedded C, Python  
+### Languages:   C, Embedded C, Python, Data Strcutures  
 
 ### Tools:  
 - Arduino
