@@ -4,7 +4,19 @@
 
 ### Languages:   C, Embedded C, Python  
 
-### Tools:  Keil, STM32 Workbench, Segger System View, LogicAnalyzer, Arduino, Thonny, NI Labview, ASCET, Time partition Testing, STM32 Cube IDE, STM32 MX Cube, MATLAB, Code composer studio 
+### Tools:  
+- Arduino
+- ASCET
+- Code composer studio
+- LogicAnalyzer
+- MATLAB
+- NI Labview
+- Segger System View
+- STM32 Workbench
+- STM32 Cube IDE
+- STM32 Cube MX
+- Thonny 
+- Time partition Testing  
 
 
 ### You can reach me by :
