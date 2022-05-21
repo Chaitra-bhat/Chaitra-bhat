@@ -1,6 +1,6 @@
 # Hi there, I am Chaitra Bhat 👋
 
-### Working as an Automotive Software Engineer, and currently pursuing my Master's in Software Systems. Interested in driver development, system design, software architecture.... 
+### Working as an Automotive Hardware Safey Engineer, and currently pursuing my Master's in Software Systems.
 
 ### Languages:   C, Embedded C, Python, Data Strcutures  
 
