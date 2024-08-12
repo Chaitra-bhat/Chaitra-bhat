@@ -1,6 +1,6 @@
 # Hi there, I am Chaitra Bhat 👋
 
-### Working as an Automotive Hardware Safety Engineer, and currently pursuing my Master's in Software Systems.
+### Working as an Functional Safety Engineer.
 
 ### Languages:   C, Embedded C, Python, Data Strcutures  
 
